@@ -1,0 +1,9 @@
+Your weight on Mercury will be 36.97
+Your weight on Venus will be 88.67
+Your weight on Earth will be 100.00
+Your weight on Mars will be 37.12
+Your weight on Jupiter will be 247.95
+Your weight on Saturn will be 104.60
+Your weight on Uranus will be 88.66
+Your weight on Neptune will be 111.43
+Your weight on Pluto will be 6.55
