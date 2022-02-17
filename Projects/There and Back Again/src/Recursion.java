@@ -14,7 +14,7 @@ public class Recursion {
         if (x <= 10) {
             return -7;
         } else {
-          return (x - 4)+2;
+          return first(x - 4)+2;
         }
     }   
     
@@ -22,7 +22,7 @@ public class Recursion {
     	if (x <= 25) {
             return 20;
         } else {
-          return (x / 12 + 5) - 3;
+          return second(x / 12 + 5) - 3;
         }
     }
     
@@ -30,7 +30,7 @@ public class Recursion {
     	if (x <= 20) {
             return -100;
         } else {
-          return (x * 2) - 4;
+          return fourth(x * 2) - 4;
         }
     }
 }
