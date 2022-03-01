@@ -1,9 +1,0 @@
-byte - a unit used to measure digital data.
-kilobyte - this is mulitple byte's together and it is equivilant to 1024 bytes.
-megabyte - this is mulitple byte's together and it is equivilant to 1 million bytes.
-gigabyte - this is mulitple byte's together and it is equivilant to 1 billion bytes.
-terabyte - this is mulitple gigabyte's together and it is equivilant to 1000 gigabytes.
-petabyte - this is mulitple terabyte's together and it is equivilant to 1024 terabytes.
-exabyte - this is mulitple petabyte's together and it is equivilant to 1000 petabytes.
-zettabyte - this is mulitple exabyte's together and it is equivilant to 1000 exabytes.
-yottabyte - this is mulitple zettabyte's together and it is equivilant to 1000 zettabytes.
